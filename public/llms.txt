@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Rubk AI מובילה בפתרונות בינה מלאכותית לסקירת מסמכים משפטיים, שירות לקוחות אוטומטי ומערכות למידת מכונה בבנקאות. גלו את הטכנולוגיה המתקדמת שלנו.
+
+### עבודות
+https://example.com/work
+צפו בפרויקטי AI פורצי דרך: מערכות למידת מכונה בבנקאות, אוטומציה לרכש, וטכנולוגיות חדשניות שמשנות את עולם העסקים. הישגים מוכחים ותוצאות מרשימות.
+
+### מקרה בוחן
+https://example.com/case-study
+למדו כיצד פתרונות הבינה המלאכותית שלנו חסכו מאות שעות בסקירת מסמכים משפטיים ושיפרו שירות לקוחות ב-85%. תוצאות אמיתיות, מדידות וממשיות.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם מומחי הבינה המלאכותית של Rubk AI לייעוץ אישי. נפתח פתרונות מותאמים אישית לרכש, בנקאות ושירות לקוחות. ייעוץ ללא התחייבות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
